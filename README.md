@@ -47,7 +47,7 @@ class Graph
 
 ### Example 
 - Given a scenario where the starting point is Los Angeles, and the destinations are Washington and New York, the algorithm will determine which route is more optimized based on the values of the edges between the nodes. 
-- In this case, the edge between Los Angeles and New York is therefore *relaxed* since it is more optimal to traverse through Washington since the edges add up less than directly traversal.
+- In this case, the edge between Los Angeles and New York is relaxed since it is more optimal to traverse through Washington, as the total of the edges is less than a direct traversal.
 <p align="center">
   <img src="images/example.svg?raw=true" alt="example"/>
 </p
@@ -55,4 +55,5 @@ class Graph
   <img src="images/example_output.png?raw=true" alt="example output width="100"/>
 </p>
 
+[Source Code](https://github.com/airtimeEnthusiast/DijkstraShortestPath)
 
