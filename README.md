@@ -1,10 +1,6 @@
 # Airline-Flight-Path-Optimizer
 This program finds the shortest path an airplane can take between cities using [Dijistra Shortest Path](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). 
 
-### Example 
-
-
-
 ## Program Description
 
 ### Algorithm Description
@@ -25,7 +21,7 @@ Where *G* is a graph of nodes, *w* is a weight between nodes, *s* is the startin
 - Line 2 intializes the shortest path estimation set to empty
 - Line 3 intializes all the nodes in V into the min-priority queue *Q*
 - Lines 4-8 extract and add the vetex into the shortest path estimation set *S*
-- Lines 7-8 relax each edge and reducing the distance between source *u* and destination *v* 
+- Lines 7-8 relax each edge and reducing the distance between source *u* and destination *v*
 
 ### Graph Class
 Contains a minimum heap structure to organize a collection of nodes and functions to compute the djistra algorithm. 
@@ -48,5 +44,15 @@ class Graph
       void printDijkstraPath(string sourceCityName);
 };
 ```
+
+### Example 
+- Given a scenario where the starting point is Los Angeles, and the destinations are Washington and New York, the algorithm will determine which route is more optimized based on the values of the edges between the nodes. 
+- In this case, the edge between Los Angeles and New York is therefore *relaxed* since it is more optimal to traverse through Washington since the edges add up less than directly traversal.
+<p align="center">
+  <img src="images/example.svg?raw=true" alt="example"/>
+</p
+<p align="center">
+  <img src="images/example_output.png?raw=true" alt="example output width="100"/>
+</p>
 
 
