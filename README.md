@@ -1,5 +1,5 @@
 # Airline-Flight-Path-Optimizer
-This program finds the shortest path an airplane can take between cities using [Dijistra Shortest Path](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). 
+This program finds the shortest airplane route can take between cities using [Dijistra Shortest Path](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm). 
 
 ## Program Description
 
