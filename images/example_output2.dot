@@ -5,10 +5,10 @@ digraph G {
   "Seattle" -> "New York"[label=" $1320"];
   "Seattle" -> "Salt Lake"[label=" $325", color="red",penwidth=3.0];
   "Salt Lake" -> "Phoenix"[label=" $450"];
-  "Salt Lake" -> "Sante Fe"[label=" $379",  color="red",penwidth=3.0];
+  "Salt Lake" -> "Santa Fe"[label=" $379",  color="red",penwidth=3.0];
   "Phoenix" -> "Seattle"[label=" $450"];
-  "Sante Fe" -> "Austin"[label=" $572",  color="red",penwidth=3.0];
-  "Sante Fe" -> "Phoenix"[label=" $275"];
+  "Santa Fe" -> "Austin"[label=" $572",  color="red",penwidth=3.0];
+  "Santa Fe" -> "Phoenix"[label=" $275"];
   "Denver" -> "Chicago"[label="$620 "]
   "Denver" -> "Dallas"[label="$475"]
   "Denver" -> "Salt Lake"[label="$350"]
