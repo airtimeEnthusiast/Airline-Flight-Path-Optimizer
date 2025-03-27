@@ -1,0 +1,28 @@
+digraph G {
+"Seattle"[label="Seattle", shape=ellipse, color="red",penwidth=3.0];
+"Washington"[label="Washington", shape=ellipse, color=green, penwidth=3.0];
+  
+  "Seattle" -> "New York"[label=" $1320"];
+  "Seattle" -> "Salt Lake"[label=" $325", color="red",penwidth=3.0];
+  "Salt Lake" -> "Phoenix"[label=" $450"];
+  "Salt Lake" -> "Sante Fe"[label=" $379",  color="red",penwidth=3.0];
+  "Phoenix" -> "Seattle"[label=" $450"];
+  "Sante Fe" -> "Austin"[label=" $572",  color="red",penwidth=3.0];
+  "Sante Fe" -> "Phoenix"[label=" $275"];
+  "Denver" -> "Chicago"[label="$620 "]
+  "Denver" -> "Dallas"[label="$475"]
+  "Denver" -> "Salt Lake"[label="$350"]
+  "Denver" -> "Santa Fe"[label="$180"]
+  "Austin" -> "Dallas"[label="$350", color="red",penwidth=3.0]
+  "Dallas" -> "Atlanta"[label="$780", color="red",penwidth=3.0]
+  "Dallas" -> "Austin"[label="$250"]
+  "Dallas" -> "Denver"[label="$550"]
+  "Dallas" -> "Miami"[label="$560"]
+  "Atlanta" -> "Dallas"[label=" $860"]
+  "Atlanta" -> "Miami"[label="$320"]
+  "Atlanta" -> "Washington"[label="$420", color="red",penwidth=3.0]
+  "Chicago" -> "Denver"[label=" $570"]
+  "Washington" -> "New York"[label="$250"]   
+  "New York" -> "Chicago"[label=" $320"]      
+  "Miami" -> "Atlanta"[label="$457"]       
+}
