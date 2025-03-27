@@ -1,38 +1,38 @@
-<svg width="503pt" height="932pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="overflow: hidden; "><g id="viewport-20250327194811156" class="svg-pan-zoom_viewport" transform="matrix(0.8304721030042919,0,0,0.8304721030042919,99.55329747015827,-91.00000458418556)" style="transform: matrix(0.830472, 0, 0, 0.830472, 99.553297, -91.000005);">
+<svg width="423pt" height="932pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" style="overflow: hidden; "><g id="viewport-20250327195711952" class="svg-pan-zoom_viewport" transform="matrix(0.7794173117629912,0,0,0.7794173117629912,119.51235939442445,26.683001338245596)" style="transform: matrix(0.779417, 0, 0, 0.779417, 119.512359, 26.683001);">
 <g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 928)">
 <title>G</title>
-<polygon fill="white" stroke="none" points="-4,4 -4,-928 499.2,-928 499.2,4 -4,4"></polygon>
+<polygon fill="white" stroke="none" points="-4,4 -4,-928 419.2,-928 419.2,4 -4,4"></polygon>
 <!-- Seattle -->
 <g id="node1" class="node">
 <title>Seattle</title>
-<ellipse fill="none" stroke="red" stroke-width="3" cx="322.7" cy="-906" rx="37.31" ry="18"></ellipse>
-<text text-anchor="middle" x="322.7" y="-901.8" font-family="Times,serif" font-size="14.00">Seattle</text>
+<ellipse fill="none" stroke="red" stroke-width="3" cx="291.7" cy="-906" rx="37.31" ry="18"></ellipse>
+<text text-anchor="middle" x="291.7" y="-901.8" font-family="Times,serif" font-size="14.00">Seattle</text>
 </g>
 <!-- New York -->
 <g id="node3" class="node">
 <title>New York</title>
-<ellipse fill="none" stroke="black" cx="220.7" cy="-817.2" rx="51.53" ry="18"></ellipse>
-<text text-anchor="middle" x="220.7" y="-813" font-family="Times,serif" font-size="14.00">New York</text>
+<ellipse fill="none" stroke="black" cx="175.7" cy="-817.2" rx="51.53" ry="18"></ellipse>
+<text text-anchor="middle" x="175.7" y="-813" font-family="Times,serif" font-size="14.00">New York</text>
 </g>
 <!-- Seattle&#45;&gt;New York -->
 <g id="edge1" class="edge">
 <title>Seattle-&gt;New York</title>
-<path fill="none" stroke="black" d="M298.92,-890.72C289.63,-884.75 279.1,-877.46 270.2,-870 260.63,-861.97 250.94,-852.26 242.71,-843.42"></path>
-<polygon fill="black" stroke="black" points="245.36,-841.14 236.03,-836.1 240.18,-845.85 245.36,-841.14"></polygon>
-<text text-anchor="middle" x="289.95" y="-857.4" font-family="Times,serif" font-size="14.00"> $1320</text>
+<path fill="none" stroke="black" d="M268.89,-890.48C259.55,-884.36 248.72,-877.03 239.2,-870 227.13,-861.09 214.23,-850.72 203.23,-841.62"></path>
+<polygon fill="black" stroke="black" points="205.58,-839.02 195.66,-835.3 201.09,-844.4 205.58,-839.02"></polygon>
+<text text-anchor="middle" x="258.95" y="-857.4" font-family="Times,serif" font-size="14.00"> $1320</text>
 </g>
 <!-- Salt Lake -->
 <g id="node4" class="node">
 <title>Salt Lake</title>
-<ellipse fill="none" stroke="black" cx="322.7" cy="-550.8" rx="47.77" ry="18"></ellipse>
-<text text-anchor="middle" x="322.7" y="-546.6" font-family="Times,serif" font-size="14.00">Salt Lake</text>
+<ellipse fill="none" stroke="black" cx="291.7" cy="-550.8" rx="47.77" ry="18"></ellipse>
+<text text-anchor="middle" x="291.7" y="-546.6" font-family="Times,serif" font-size="14.00">Salt Lake</text>
 </g>
 <!-- Seattle&#45;&gt;Salt Lake -->
 <g id="edge2" class="edge">
 <title>Seattle-&gt;Salt Lake</title>
-<path fill="none" stroke="red" stroke-width="3" d="M322.7,-886.71C322.7,-869.15 322.7,-841.86 322.7,-818.2 322.7,-818.2 322.7,-818.2 322.7,-638.6 322.7,-620.33 322.7,-599.89 322.7,-583.44"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="326.2,-583.63 322.7,-573.63 319.2,-583.63 326.2,-583.63"></polygon>
-<text text-anchor="middle" x="338.45" y="-724.2" font-family="Times,serif" font-size="14.00"> $325</text>
+<path fill="none" stroke="red" stroke-width="3" d="M291.7,-886.71C291.7,-869.15 291.7,-841.86 291.7,-818.2 291.7,-818.2 291.7,-818.2 291.7,-638.6 291.7,-620.33 291.7,-599.89 291.7,-583.44"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="295.2,-583.63 291.7,-573.63 288.2,-583.63 295.2,-583.63"></polygon>
+<text text-anchor="middle" x="307.45" y="-724.2" font-family="Times,serif" font-size="14.00"> $325</text>
 </g>
 <!-- Washington -->
 <g id="node2" class="node">
@@ -43,203 +43,197 @@
 <!-- Washington&#45;&gt;New York -->
 <g id="edge21" class="edge">
 <title>Washington-&gt;New York</title>
-<path fill="none" stroke="black" d="M52.38,-37.11C47.72,-54.55 41.7,-81.74 41.7,-105.8 41.7,-729.4 41.7,-729.4 41.7,-729.4 41.7,-782.97 107.42,-803.49 159.22,-811.34"></path>
-<polygon fill="black" stroke="black" points="158.48,-814.78 168.87,-812.67 159.44,-807.84 158.48,-814.78"></polygon>
+<path fill="none" stroke="black" d="M52.38,-37.11C47.72,-54.55 41.7,-81.74 41.7,-105.8 41.7,-729.4 41.7,-729.4 41.7,-729.4 41.7,-769.39 84.26,-791.87 121.4,-803.88"></path>
+<polygon fill="black" stroke="black" points="120.16,-807.16 130.75,-806.7 122.19,-800.46 120.16,-807.16"></polygon>
 <text text-anchor="middle" x="55.7" y="-413.4" font-family="Times,serif" font-size="14.00">$250</text>
 </g>
 <!-- Chicago -->
 <g id="node9" class="node">
 <title>Chicago</title>
-<ellipse fill="none" stroke="black" cx="220.7" cy="-728.4" rx="43.22" ry="18"></ellipse>
-<text text-anchor="middle" x="220.7" y="-724.2" font-family="Times,serif" font-size="14.00">Chicago</text>
+<ellipse fill="none" stroke="black" cx="175.7" cy="-728.4" rx="43.22" ry="18"></ellipse>
+<text text-anchor="middle" x="175.7" y="-724.2" font-family="Times,serif" font-size="14.00">Chicago</text>
 </g>
 <!-- New York&#45;&gt;Chicago -->
 <g id="edge22" class="edge">
 <title>New York-&gt;Chicago</title>
-<path fill="none" stroke="black" d="M220.7,-799.05C220.7,-787.36 220.7,-771.59 220.7,-758.02"></path>
-<polygon fill="black" stroke="black" points="224.2,-758.32 220.7,-748.32 217.2,-758.32 224.2,-758.32"></polygon>
-<text text-anchor="middle" x="236.45" y="-768.6" font-family="Times,serif" font-size="14.00"> $320</text>
+<path fill="none" stroke="black" d="M175.7,-799.05C175.7,-787.36 175.7,-771.59 175.7,-758.02"></path>
+<polygon fill="black" stroke="black" points="179.2,-758.32 175.7,-748.32 172.2,-758.32 179.2,-758.32"></polygon>
+<text text-anchor="middle" x="191.45" y="-768.6" font-family="Times,serif" font-size="14.00"> $320</text>
 </g>
 <!-- Phoenix -->
 <g id="node5" class="node">
 <title>Phoenix</title>
-<ellipse fill="none" stroke="black" cx="403.7" cy="-373.2" rx="42.69" ry="18"></ellipse>
-<text text-anchor="middle" x="403.7" y="-369" font-family="Times,serif" font-size="14.00">Phoenix</text>
+<ellipse fill="none" stroke="black" cx="323.7" cy="-373.2" rx="42.69" ry="18"></ellipse>
+<text text-anchor="middle" x="323.7" y="-369" font-family="Times,serif" font-size="14.00">Phoenix</text>
 </g>
 <!-- Salt Lake&#45;&gt;Phoenix -->
 <g id="edge3" class="edge">
 <title>Salt Lake-&gt;Phoenix</title>
-<path fill="none" stroke="black" d="M340.48,-533.96C346.35,-528.25 352.66,-521.54 357.7,-514.8 382.98,-481.04 394.75,-432.74 399.95,-402.45"></path>
-<polygon fill="black" stroke="black" points="403.35,-403.33 401.45,-392.91 396.44,-402.24 403.35,-403.33"></polygon>
-<text text-anchor="middle" x="406.45" y="-457.8" font-family="Times,serif" font-size="14.00"> $450</text>
+<path fill="none" stroke="black" d="M300.18,-532.7C302.64,-527.11 305.09,-520.8 306.7,-514.8 316.92,-476.78 321.01,-431.31 322.64,-402.59"></path>
+<polygon fill="black" stroke="black" points="326.12,-403.05 323.12,-392.89 319.13,-402.7 326.12,-403.05"></polygon>
+<text text-anchor="middle" x="335.45" y="-457.8" font-family="Times,serif" font-size="14.00"> $450</text>
 </g>
-<!-- Sante Fe -->
+<!-- Santa Fe -->
 <g id="node6" class="node">
-<title>Sante Fe</title>
-<ellipse fill="none" stroke="black" cx="322.7" cy="-462" rx="44.56" ry="18"></ellipse>
-<text text-anchor="middle" x="322.7" y="-457.8" font-family="Times,serif" font-size="14.00">Sante Fe</text>
+<title>Santa Fe</title>
+<ellipse fill="none" stroke="black" cx="242.7" cy="-462" rx="44.56" ry="18"></ellipse>
+<text text-anchor="middle" x="242.7" y="-457.8" font-family="Times,serif" font-size="14.00">Santa Fe</text>
 </g>
-<!-- Salt Lake&#45;&gt;Sante Fe -->
+<!-- Salt Lake&#45;&gt;Santa Fe -->
 <g id="edge4" class="edge">
-<title>Salt Lake-&gt;Sante Fe</title>
-<path fill="none" stroke="red" stroke-width="3" d="M322.7,-532.65C322.7,-521.9 322.7,-507.71 322.7,-494.95"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="326.2,-494.95 322.7,-484.95 319.2,-494.95 326.2,-494.95"></polygon>
-<text text-anchor="middle" x="338.45" y="-502.2" font-family="Times,serif" font-size="14.00"> $379</text>
+<title>Salt Lake-&gt;Santa Fe</title>
+<path fill="none" stroke="red" stroke-width="3" d="M282.26,-533.06C275.79,-521.61 267.04,-506.11 259.41,-492.6"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="262.49,-490.92 254.52,-483.93 256.39,-494.36 262.49,-490.92"></polygon>
+<text text-anchor="middle" x="287.45" y="-502.2" font-family="Times,serif" font-size="14.00"> $379</text>
 </g>
 <!-- Phoenix&#45;&gt;Seattle -->
 <g id="edge5" class="edge">
 <title>Phoenix-&gt;Seattle</title>
-<path fill="none" stroke="black" d="M423.02,-389.6C440.56,-405.44 463.7,-431.87 463.7,-461 463.7,-818.2 463.7,-818.2 463.7,-818.2 463.7,-863.26 410.83,-885.68 369.84,-896.3"></path>
-<polygon fill="black" stroke="black" points="369.03,-892.89 360.12,-898.63 370.66,-899.7 369.03,-892.89"></polygon>
-<text text-anchor="middle" x="479.45" y="-635.4" font-family="Times,serif" font-size="14.00"> $450</text>
+<path fill="none" stroke="black" d="M343.02,-389.6C360.56,-405.44 383.7,-431.87 383.7,-461 383.7,-818.2 383.7,-818.2 383.7,-818.2 383.7,-849.51 355.17,-872.87 329.88,-887.42"></path>
+<polygon fill="black" stroke="black" points="328.51,-884.18 321.39,-892.02 331.85,-890.33 328.51,-884.18"></polygon>
+<text text-anchor="middle" x="399.45" y="-635.4" font-family="Times,serif" font-size="14.00"> $450</text>
 </g>
-<!-- Sante Fe&#45;&gt;Phoenix -->
+<!-- Santa Fe&#45;&gt;Phoenix -->
 <g id="edge7" class="edge">
-<title>Sante Fe-&gt;Phoenix</title>
-<path fill="none" stroke="black" d="M332.36,-444.15C338.91,-433.5 348.16,-419.81 358.2,-409.2 362.57,-404.59 367.59,-400.1 372.65,-395.96"></path>
-<polygon fill="black" stroke="black" points="374.75,-398.77 380.51,-389.87 370.46,-393.23 374.75,-398.77"></polygon>
-<text text-anchor="middle" x="374.45" y="-413.4" font-family="Times,serif" font-size="14.00"> $275</text>
+<title>Santa Fe-&gt;Phoenix</title>
+<path fill="none" stroke="black" d="M252.36,-444.15C258.91,-433.5 268.16,-419.81 278.2,-409.2 282.57,-404.59 287.59,-400.1 292.65,-395.96"></path>
+<polygon fill="black" stroke="black" points="294.75,-398.77 300.51,-389.87 290.46,-393.23 294.75,-398.77"></polygon>
+<text text-anchor="middle" x="294.45" y="-413.4" font-family="Times,serif" font-size="14.00"> $275</text>
 </g>
 <!-- Austin -->
 <g id="node7" class="node">
 <title>Austin</title>
-<ellipse fill="none" stroke="black" cx="301.7" cy="-373.2" rx="36.79" ry="18"></ellipse>
-<text text-anchor="middle" x="301.7" y="-369" font-family="Times,serif" font-size="14.00">Austin</text>
+<ellipse fill="none" stroke="black" cx="221.7" cy="-373.2" rx="36.79" ry="18"></ellipse>
+<text text-anchor="middle" x="221.7" y="-369" font-family="Times,serif" font-size="14.00">Austin</text>
 </g>
-<!-- Sante Fe&#45;&gt;Austin -->
+<!-- Santa Fe&#45;&gt;Austin -->
 <g id="edge6" class="edge">
-<title>Sante Fe-&gt;Austin</title>
-<path fill="none" stroke="red" stroke-width="3" d="M311.25,-444.26C308.03,-438.7 304.94,-432.3 303.2,-426 301.43,-419.57 300.56,-412.52 300.22,-405.75"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="303.72,-405.83 300.19,-395.84 296.72,-405.85 303.72,-405.83"></polygon>
-<text text-anchor="middle" x="319.45" y="-413.4" font-family="Times,serif" font-size="14.00"> $572</text>
+<title>Santa Fe-&gt;Austin</title>
+<path fill="none" stroke="red" stroke-width="3" d="M231.25,-444.26C228.03,-438.7 224.94,-432.3 223.2,-426 221.43,-419.57 220.56,-412.52 220.22,-405.75"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="223.72,-405.83 220.19,-395.84 216.72,-405.85 223.72,-405.83"></polygon>
+<text text-anchor="middle" x="239.45" y="-413.4" font-family="Times,serif" font-size="14.00"> $572</text>
 </g>
 <!-- Dallas -->
 <g id="node10" class="node">
 <title>Dallas</title>
-<ellipse fill="none" stroke="black" cx="231.7" cy="-284.4" rx="35.71" ry="18"></ellipse>
-<text text-anchor="middle" x="231.7" y="-280.2" font-family="Times,serif" font-size="14.00">Dallas</text>
+<ellipse fill="none" stroke="black" cx="155.7" cy="-284.4" rx="35.71" ry="18"></ellipse>
+<text text-anchor="middle" x="155.7" y="-280.2" font-family="Times,serif" font-size="14.00">Dallas</text>
 </g>
 <!-- Austin&#45;&gt;Dallas -->
 <g id="edge12" class="edge">
 <title>Austin-&gt;Dallas</title>
-<path fill="none" stroke="red" stroke-width="3" d="M284.44,-356.88C278.23,-351.01 271.36,-344.06 265.7,-337.2 259.82,-330.08 254.07,-321.91 249.01,-314.19"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="251.97,-312.34 243.68,-305.75 246.05,-316.07 251.97,-312.34"></polygon>
-<text text-anchor="middle" x="279.7" y="-324.6" font-family="Times,serif" font-size="14.00">$350</text>
+<path fill="none" stroke="red" stroke-width="3" d="M204.23,-357.05C198,-351.19 191.17,-344.21 185.7,-337.2 180.29,-330.25 175.17,-322.22 170.74,-314.59"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="173.89,-313.05 166,-305.98 167.75,-316.43 173.89,-313.05"></polygon>
+<text text-anchor="middle" x="199.7" y="-324.6" font-family="Times,serif" font-size="14.00">$350</text>
 </g>
 <!-- Denver -->
 <g id="node8" class="node">
 <title>Denver</title>
-<ellipse fill="none" stroke="black" cx="215.7" cy="-639.6" rx="39.46" ry="18"></ellipse>
-<text text-anchor="middle" x="215.7" y="-635.4" font-family="Times,serif" font-size="14.00">Denver</text>
+<ellipse fill="none" stroke="black" cx="193.7" cy="-639.6" rx="39.46" ry="18"></ellipse>
+<text text-anchor="middle" x="193.7" y="-635.4" font-family="Times,serif" font-size="14.00">Denver</text>
 </g>
 <!-- Denver&#45;&gt;Salt Lake -->
 <g id="edge10" class="edge">
 <title>Denver-&gt;Salt Lake</title>
-<path fill="none" stroke="black" d="M234.34,-623.48C250.91,-610.04 275.38,-590.19 294.37,-574.78"></path>
-<polygon fill="black" stroke="black" points="296.46,-577.6 302.02,-568.58 292.05,-572.16 296.46,-577.6"></polygon>
-<text text-anchor="middle" x="293.7" y="-591" font-family="Times,serif" font-size="14.00">$350</text>
+<path fill="none" stroke="black" d="M210.16,-622.96C221.21,-612.56 236.17,-598.68 249.7,-586.8 254.14,-582.91 258.89,-578.84 263.55,-574.92"></path>
+<polygon fill="black" stroke="black" points="265.7,-577.69 271.13,-568.59 261.21,-572.31 265.7,-577.69"></polygon>
+<text text-anchor="middle" x="263.7" y="-591" font-family="Times,serif" font-size="14.00">$350</text>
+</g>
+<!-- Denver&#45;&gt;Santa Fe -->
+<g id="edge11" class="edge">
+<title>Denver-&gt;Santa Fe</title>
+<path fill="none" stroke="black" d="M193.97,-621.36C194.71,-600.09 197.38,-563.04 206.7,-532.8 211.32,-517.84 219.04,-502.25 226.15,-489.61"></path>
+<polygon fill="black" stroke="black" points="229.11,-491.48 231.13,-481.08 223.07,-487.95 229.11,-491.48"></polygon>
+<text text-anchor="middle" x="220.7" y="-546.6" font-family="Times,serif" font-size="14.00">$180</text>
 </g>
 <!-- Denver&#45;&gt;Chicago -->
 <g id="edge8" class="edge">
 <title>Denver-&gt;Chicago</title>
-<path fill="none" stroke="black" d="M205.81,-657.33C201.06,-667.45 197.01,-680.62 200.2,-692.4 200.96,-695.19 202.01,-698 203.22,-700.73"></path>
-<polygon fill="black" stroke="black" points="200.06,-702.23 207.84,-709.43 206.25,-698.95 200.06,-702.23"></polygon>
+<path fill="none" stroke="black" d="M198.02,-657.7C199.87,-667.95 200.95,-681.13 197.7,-692.4 196.86,-695.34 195.68,-698.27 194.31,-701.11"></path>
+<polygon fill="black" stroke="black" points="191.41,-699.14 189.49,-709.56 197.49,-702.61 191.41,-699.14"></polygon>
 <text text-anchor="middle" x="216.45" y="-679.8" font-family="Times,serif" font-size="14.00">$620 </text>
 </g>
 <!-- Denver&#45;&gt;Dallas -->
 <g id="edge9" class="edge">
 <title>Denver-&gt;Dallas</title>
-<path fill="none" stroke="black" d="M209.03,-621.48C196.68,-587.66 172.31,-509.87 181.7,-444 188.49,-396.4 207.61,-343.61 220.14,-312.53"></path>
-<polygon fill="black" stroke="black" points="223.29,-314.09 223.85,-303.51 216.81,-311.42 223.29,-314.09"></polygon>
-<text text-anchor="middle" x="195.7" y="-457.8" font-family="Times,serif" font-size="14.00">$475</text>
-</g>
-<!-- Santa Fe -->
-<g id="node11" class="node">
-<title>Santa Fe</title>
-<ellipse fill="none" stroke="black" cx="114.7" cy="-550.8" rx="44.56" ry="18"></ellipse>
-<text text-anchor="middle" x="114.7" y="-546.6" font-family="Times,serif" font-size="14.00">Santa Fe</text>
-</g>
-<!-- Denver&#45;&gt;Santa Fe -->
-<g id="edge11" class="edge">
-<title>Denver-&gt;Santa Fe</title>
-<path fill="none" stroke="black" d="M185.12,-627.81C171.92,-622.08 156.96,-614.04 145.7,-603.6 138.27,-596.71 132.03,-587.64 127.14,-579.01"></path>
-<polygon fill="black" stroke="black" points="130.29,-577.48 122.56,-570.23 124.09,-580.71 130.29,-577.48"></polygon>
-<text text-anchor="middle" x="159.7" y="-591" font-family="Times,serif" font-size="14.00">$180</text>
+<path fill="none" stroke="black" d="M162.47,-628.14C131.21,-615.46 87.7,-590.81 87.7,-551.8 87.7,-551.8 87.7,-551.8 87.7,-372.2 87.7,-345.55 107.81,-322.21 126.16,-306.47"></path>
+<polygon fill="black" stroke="black" points="128.19,-309.34 133.76,-300.32 123.78,-303.9 128.19,-309.34"></polygon>
+<text text-anchor="middle" x="101.7" y="-457.8" font-family="Times,serif" font-size="14.00">$475</text>
 </g>
 <!-- Chicago&#45;&gt;Denver -->
 <g id="edge20" class="edge">
 <title>Chicago-&gt;Denver</title>
-<path fill="none" stroke="black" d="M227.92,-710.59C231.37,-700.45 234.25,-687.28 231.7,-675.6 231.16,-673.11 230.42,-670.58 229.56,-668.08"></path>
-<polygon fill="black" stroke="black" points="232.84,-666.84 225.79,-658.94 226.37,-669.51 232.84,-666.84"></polygon>
-<text text-anchor="middle" x="248.45" y="-679.8" font-family="Times,serif" font-size="14.00"> $570</text>
+<path fill="none" stroke="black" d="M166.18,-710.77C161.54,-700.47 157.81,-687.05 162.2,-675.6 163.7,-671.71 165.85,-667.98 168.33,-664.5"></path>
+<polygon fill="black" stroke="black" points="170.78,-667.02 174.5,-657.1 165.4,-662.54 170.78,-667.02"></polygon>
+<text text-anchor="middle" x="178.45" y="-679.8" font-family="Times,serif" font-size="14.00"> $570</text>
 </g>
 <!-- Dallas&#45;&gt;Austin -->
 <g id="edge14" class="edge">
 <title>Dallas-&gt;Austin</title>
-<path fill="none" stroke="black" d="M260.69,-295.21C272.75,-300.75 285.76,-308.91 293.7,-320.4 298.36,-327.14 300.74,-335.54 301.85,-343.61"></path>
-<polygon fill="black" stroke="black" points="298.35,-343.74 302.6,-353.44 305.33,-343.21 298.35,-343.74"></polygon>
-<text text-anchor="middle" x="314.7" y="-324.6" font-family="Times,serif" font-size="14.00">$250</text>
+<path fill="none" stroke="black" d="M183.75,-296.08C194.78,-301.68 206.5,-309.65 213.7,-320.4 218.27,-327.21 220.61,-335.63 221.73,-343.69"></path>
+<polygon fill="black" stroke="black" points="218.23,-343.81 222.49,-353.51 225.21,-343.27 218.23,-343.81"></polygon>
+<text text-anchor="middle" x="234.7" y="-324.6" font-family="Times,serif" font-size="14.00">$250</text>
 </g>
 <!-- Dallas&#45;&gt;Denver -->
 <g id="edge15" class="edge">
 <title>Dallas-&gt;Denver</title>
-<path fill="none" stroke="black" d="M231.7,-302.69C231.7,-320.21 231.7,-348.09 231.7,-372.2 231.7,-551.8 231.7,-551.8 231.7,-551.8 231.7,-571.72 227.58,-593.79 223.52,-610.69"></path>
-<polygon fill="black" stroke="black" points="220.22,-609.46 221.14,-620.01 227,-611.19 220.22,-609.46"></polygon>
-<text text-anchor="middle" x="245.7" y="-457.8" font-family="Times,serif" font-size="14.00">$550</text>
+<path fill="none" stroke="black" d="M154.44,-302.68C153.27,-320.19 151.7,-348.06 151.7,-372.2 151.7,-551.8 151.7,-551.8 151.7,-551.8 151.7,-574.19 163.17,-596.88 174.12,-613.44"></path>
+<polygon fill="black" stroke="black" points="170.94,-615.01 179.55,-621.2 176.68,-611 170.94,-615.01"></polygon>
+<text text-anchor="middle" x="165.7" y="-457.8" font-family="Times,serif" font-size="14.00">$550</text>
 </g>
 <!-- Atlanta -->
-<g id="node12" class="node">
+<g id="node11" class="node">
 <title>Atlanta</title>
-<ellipse fill="none" stroke="black" cx="162.7" cy="-106.8" rx="39.46" ry="18"></ellipse>
-<text text-anchor="middle" x="162.7" y="-102.6" font-family="Times,serif" font-size="14.00">Atlanta</text>
+<ellipse fill="none" stroke="black" cx="155.7" cy="-106.8" rx="39.46" ry="18"></ellipse>
+<text text-anchor="middle" x="155.7" y="-102.6" font-family="Times,serif" font-size="14.00">Atlanta</text>
 </g>
 <!-- Dallas&#45;&gt;Atlanta -->
 <g id="edge13" class="edge">
 <title>Dallas-&gt;Atlanta</title>
-<path fill="none" stroke="red" stroke-width="3" d="M226.8,-266.12C218.92,-239.2 202.31,-185.85 182.7,-142.8 181.88,-140.98 180.99,-139.14 180.06,-137.29"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="183.15,-135.65 175.29,-128.55 177,-139 183.15,-135.65"></polygon>
-<text text-anchor="middle" x="224.7" y="-191.4" font-family="Times,serif" font-size="14.00">$780</text>
+<path fill="none" stroke="red" stroke-width="3" d="M155.7,-265.92C155.7,-236.47 155.7,-176.55 155.7,-139.52"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="159.2,-139.75 155.7,-129.75 152.2,-139.75 159.2,-139.75"></polygon>
+<text text-anchor="middle" x="169.7" y="-191.4" font-family="Times,serif" font-size="14.00">$780</text>
 </g>
 <!-- Miami -->
-<g id="node13" class="node">
+<g id="node12" class="node">
 <title>Miami</title>
-<ellipse fill="none" stroke="black" cx="132.7" cy="-195.6" rx="36.79" ry="18"></ellipse>
-<text text-anchor="middle" x="132.7" y="-191.4" font-family="Times,serif" font-size="14.00">Miami</text>
+<ellipse fill="none" stroke="black" cx="238.7" cy="-195.6" rx="36.79" ry="18"></ellipse>
+<text text-anchor="middle" x="238.7" y="-191.4" font-family="Times,serif" font-size="14.00">Miami</text>
 </g>
 <!-- Dallas&#45;&gt;Miami -->
 <g id="edge16" class="edge">
 <title>Dallas-&gt;Miami</title>
-<path fill="none" stroke="black" d="M203.35,-273.05C190.21,-267.25 175.03,-259.03 163.7,-248.4 156.31,-241.47 150.08,-232.38 145.19,-223.76"></path>
-<polygon fill="black" stroke="black" points="148.34,-222.23 140.6,-214.99 142.14,-225.47 148.34,-222.23"></polygon>
-<text text-anchor="middle" x="177.7" y="-235.8" font-family="Times,serif" font-size="14.00">$560</text>
+<path fill="none" stroke="black" d="M170.54,-267.88C183.21,-254.63 201.63,-235.37 216.12,-220.21"></path>
+<polygon fill="black" stroke="black" points="218.29,-223.02 222.67,-213.37 213.23,-218.18 218.29,-223.02"></polygon>
+<text text-anchor="middle" x="218.7" y="-235.8" font-family="Times,serif" font-size="14.00">$560</text>
 </g>
 <!-- Atlanta&#45;&gt;Washington -->
 <g id="edge19" class="edge">
 <title>Atlanta-&gt;Washington</title>
-<path fill="none" stroke="red" stroke-width="3" d="M144.41,-90.68C129.28,-78.17 107.43,-60.1 89.45,-45.24"></path>
-<polygon fill="red" stroke="red" stroke-width="3" points="91.74,-42.59 81.8,-38.92 87.28,-47.99 91.74,-42.59"></polygon>
-<text text-anchor="middle" x="133.7" y="-58.2" font-family="Times,serif" font-size="14.00">$420</text>
+<path fill="none" stroke="red" stroke-width="3" d="M138.18,-90.28C124.23,-77.92 104.36,-60.33 87.86,-45.71"></path>
+<polygon fill="red" stroke="red" stroke-width="3" points="90.29,-43.19 80.49,-39.18 85.65,-48.43 90.29,-43.19"></polygon>
+<text text-anchor="middle" x="129.7" y="-58.2" font-family="Times,serif" font-size="14.00">$420</text>
 </g>
 <!-- Atlanta&#45;&gt;Dallas -->
 <g id="edge17" class="edge">
 <title>Atlanta-&gt;Dallas</title>
-<path fill="none" stroke="black" d="M187.38,-121.33C206.44,-133.32 231.41,-152.77 242.7,-177.6 253.91,-202.25 248.67,-233.38 242.15,-255.47"></path>
-<polygon fill="black" stroke="black" points="238.82,-254.39 239.06,-264.98 245.48,-256.55 238.82,-254.39"></polygon>
-<text text-anchor="middle" x="265.45" y="-191.4" font-family="Times,serif" font-size="14.00"> $860</text>
+<path fill="none" stroke="black" d="M144.41,-124.42C135.88,-138.04 124.86,-158.17 120.2,-177.6 116.47,-193.16 116.47,-198.04 120.2,-213.6 123.87,-228.89 131.46,-244.6 138.69,-257.24"></path>
+<polygon fill="black" stroke="black" points="135.66,-258.99 143.81,-265.76 141.66,-255.39 135.66,-258.99"></polygon>
+<text text-anchor="middle" x="136.45" y="-191.4" font-family="Times,serif" font-size="14.00"> $860</text>
 </g>
 <!-- Atlanta&#45;&gt;Miami -->
 <g id="edge18" class="edge">
 <title>Atlanta-&gt;Miami</title>
-<path fill="none" stroke="black" d="M135.61,-120.15C126.65,-125.71 117.7,-133.21 112.7,-142.8 108.4,-151.07 110.2,-160.48 114.11,-168.99"></path>
-<polygon fill="black" stroke="black" points="110.93,-170.49 118.9,-177.47 117.03,-167.05 110.93,-170.49"></polygon>
-<text text-anchor="middle" x="126.7" y="-147" font-family="Times,serif" font-size="14.00">$320</text>
+<path fill="none" stroke="black" d="M164.7,-124.8C170.87,-135.5 179.71,-149.21 189.7,-159.6 194.96,-165.07 201.17,-170.25 207.38,-174.87"></path>
+<polygon fill="black" stroke="black" points="204.93,-177.42 215.12,-180.32 208.96,-171.7 204.93,-177.42"></polygon>
+<text text-anchor="middle" x="203.7" y="-147" font-family="Times,serif" font-size="14.00">$320</text>
 </g>
 <!-- Miami&#45;&gt;Atlanta -->
 <g id="edge23" class="edge">
 <title>Miami-&gt;Atlanta</title>
-<path fill="none" stroke="black" d="M138.63,-177.45C142.74,-165.56 148.3,-149.46 153.05,-135.74"></path>
-<polygon fill="black" stroke="black" points="156.34,-136.94 156.29,-126.34 149.72,-134.65 156.34,-136.94"></polygon>
-<text text-anchor="middle" x="164.7" y="-147" font-family="Times,serif" font-size="14.00">$457</text>
+<path fill="none" stroke="black" d="M234.93,-177.66C231.8,-166.71 226.42,-152.71 217.7,-142.8 211.44,-135.67 203.35,-129.67 195.11,-124.76"></path>
+<polygon fill="black" stroke="black" points="196.86,-121.73 186.4,-120.04 193.52,-127.88 196.86,-121.73"></polygon>
+<text text-anchor="middle" x="242.7" y="-147" font-family="Times,serif" font-size="14.00">$457</text>
 </g>
 </g>
 </g></svg>
