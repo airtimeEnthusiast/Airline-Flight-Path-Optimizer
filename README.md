@@ -61,6 +61,7 @@ class Graph
 - Given a more complex scenario where the starting point is Seattle, and the desired destination is Washington.
 - The edges between **Seattle, Salt Lake, Santa Fe, Austin, Dallas, Atlanta, and Washington** is relaxed and the most optimal to traversal.
 - Some more expensive alternatives:
+
 | Path    | Total Weight |
 | -------- | ------- |
 | Seattle, New York, Chicago, Denver, Dallas, Atlanta, Washington | $3885    |
